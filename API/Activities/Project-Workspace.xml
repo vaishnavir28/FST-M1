@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Project" cid="d3446eff-fbdd-4c42-b65b-fbbc89c1ff77" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="GitProject" lastOpened="2021-05-20T18:14:21.718+05:30">C:/Users/LiniVarghese/Desktop/FST_Training/GitProject-readyapi-project.xml</con:project>
+  <con:recentItemCollection>
+    <con:moduleId>SoapUiNGModule</con:moduleId>
+    <con:itemId>59be2bef-7760-40df-90eb-18a59f33c073</con:itemId>
+    <con:itemId>52953a2d-c2a7-4fe0-a5fc-7c7c62870594</con:itemId>
+    <con:itemId>1636cad7-84ee-4d34-b0aa-55b58e554a30</con:itemId>
+    <con:itemId>577c3806-cbc3-4277-b5f6-b3b20734eb7e</con:itemId>
+    <con:itemId>a248d76e-bd43-4aa6-9bed-347e6d0f41a7</con:itemId>
+  </con:recentItemCollection>
+  <con:expandedTreeNodes>
+    <con:project path="C:\Users\LiniVarghese\Desktop\FST_Training\GitProject-readyapi-project.xml">
+      <nodeId>a248d76e-bd43-4aa6-9bed-347e6d0f41a7</nodeId>
+      <nodeId>24ffad61-5b50-4224-ba5a-3811393e687f</nodeId>
+      <nodeId>24ffad61-5b50-4224-ba5a-3811393e687fapis</nodeId>
+      <nodeId>24ffad61-5b50-4224-ba5a-3811393e687fsoapui</nodeId>
+      <nodeId>6b6aa1d2-e367-40a1-997e-0fefb9a465ce</nodeId>
+      <nodeId>42827f1b-a66a-47d5-87c9-9cf8a176d7df</nodeId>
+      <nodeId>84f293db-09f5-4122-8f85-b4390b694340</nodeId>
+      <nodeId>59be2bef-7760-40df-90eb-18a59f33c073</nodeId>
+      <nodeId>dfed7ee1-ce56-4639-b536-1fb6c87849cc</nodeId>
+      <nodeId>fb6b90d4-9078-4d23-afd6-c15f128d7b98</nodeId>
+    </con:project>
+  </con:expandedTreeNodes>
+  <con:dashboardTileCollection>
+    <con:dashboardTiles>
+      <con:dashboardTile tileId="878de817-8229-4274-9692-c58345fd8963" tileType="NEW_TEST"/>
+      <con:dashboardTile tileId="43ba498a-f359-4f1b-b6e7-ea1e6e87945d" tileType="TEST_SUITE_STATUS">
+        <con:settings xsi:type="con:TestStatusTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:mode>
+            <con:today>true</con:today>
+          </con:mode>
+          <con:filter>
+            <con:failed>true</con:failed>
+            <con:passed>true</con:passed>
+            <con:unknown>true</con:unknown>
+          </con:filter>
+        </con:settings>
+      </con:dashboardTile>
+      <con:dashboardTile tileId="98849990-9d92-426e-a56a-93df3097fecd" tileType="TEST_CASE_STATUS_TILE">
+        <con:settings xsi:type="con:TestCaseStatusTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:mode>
+            <con:today>true</con:today>
+          </con:mode>
+          <con:filter>
+            <con:failed>true</con:failed>
+            <con:passed>true</con:passed>
+            <con:unknown>true</con:unknown>
+          </con:filter>
+        </con:settings>
+      </con:dashboardTile>
+      <con:dashboardTile tileId="398816f1-b02f-46ab-bb7b-fa77404c3440" tileType="SECURE_TILE">
+        <con:settings xsi:type="con:SecureTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:mode>
+            <con:today>true</con:today>
+          </con:mode>
+          <con:scan>All Scans</con:scan>
+          <con:project>All Projects</con:project>
+        </con:settings>
+      </con:dashboardTile>
+      <con:dashboardTile tileId="1671b330-2762-4e02-862f-c571880d18be" tileType="LOADUI_HISTORY_TILE">
+        <con:settings xsi:type="con:LoadHistoryTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:mode>
+            <con:today>true</con:today>
+          </con:mode>
+          <con:project>All Projects</con:project>
+          <con:filter>
+            <con:avg>true</con:avg>
+            <con:duration>true</con:duration>
+            <con:failures>true</con:failures>
+          </con:filter>
+        </con:settings>
+      </con:dashboardTile>
+      <con:dashboardTile tileId="4cdd02f2-b5f1-40b5-8ae0-d833cdfddbe3" tileType="SERVICEV">
+        <con:settings xsi:type="con:ServiceVTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:tableSettings>
+            <con:column>Name</con:column>
+            <con:column>Status</con:column>
+            <con:column>Location</con:column>
+            <con:column>Port</con:column>
+          </con:tableSettings>
+          <con:searchSettings>
+            <con:searchType>All</con:searchType>
+          </con:searchSettings>
+        </con:settings>
+      </con:dashboardTile>
+    </con:dashboardTiles>
+    <con:recentDashboardTiles/>
+  </con:dashboardTileCollection>
+  <con:overridenPropertyValuesCollection/>
+</con:soapui-workspace>
